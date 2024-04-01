@@ -10,6 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 --> 
-<div id=tryhackme
-  <a href=<script src="https://tryhackme.com/badge/2943497"></script>
-</div>
+![tryhackme stats](https://raw.githubusercontent.com/<shiwid>/<shiwid>/master/assets/thm_propic.png)
