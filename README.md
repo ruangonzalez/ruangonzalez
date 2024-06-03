@@ -1,4 +1,6 @@
-<h1 align="center" style="color: black; font-family: Arial, sans-serif;">Ruan - CyberSecurity Enthusiast & Python Developer</h1>
+<h1 align="center" style="color: black; font-family: Arial, sans-serif;">
+  Ruan - CyberSecurity Enthusiast & Python Developer
+</h1>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
   <strong>Bem-vindo ao meu perfil no GitHub!</strong>
@@ -12,9 +14,14 @@
 
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">📚 Especialidades</h2>
 
-<ul style="color: black; font-family: Arial, sans-serif; list-style: none; padding: 0;">
+<p align="center" style="color: black; font-family: Arial, sans-serif;">
+  <img src="https://img.shields.io/badge/CyberSecurity-Expert-black?style=flat-square&logo=security&logoColor=white" alt="CyberSecurity">
+  <img src="https://img.shields.io/badge/Python-Developer-black?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
+
+<ul style="color: black; font-family: Arial, sans-serif; list-style: none; padding: 0; text-align: center;">
   <li style="margin-bottom: 10px;">🔒 <strong>CyberSecurity</strong> - Pentesting, Ethical Hacking, Segurança de Redes</li>
-  <li>🐍 <strong>Python</strong> - Desenvolvimento de Software, Automação, Análise de Dados</li>
+  <li>🐍 <strong>Python</strong> - Desenvolvimento Web, Automação, Análise de Dados</li>
 </ul>
 
 <hr style="border: 1px solid black;">
@@ -31,8 +38,12 @@
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">📫 Contato</h2>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
-  <a href="mailto:sarot.dev@gmail.com" style="color: black; text-decoration: none;"><strong>Email:</strong> seu-email@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/ruangonzalez/" style="color: black; text-decoration: none;"><strong>LinkedIn</strong></a>
+  <a href="mailto:sarot.dev@gmail.com" style="color: black; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ruangonzalez/" style="color: black; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <hr style="border: 1px solid black;">
@@ -40,6 +51,3 @@
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
   <strong>Obrigado por visitar o meu perfil!</strong>
 </p>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/shiwid.png" alt="TryHackMe">
-
