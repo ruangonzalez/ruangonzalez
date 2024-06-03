@@ -31,8 +31,8 @@
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">📫 Contato</h2>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
-  <a href="mailto:seu-email@gmail.com" style="color: black; text-decoration: none;"><strong>Email:</strong> seu-email@gmail.com</a> | 
-  <a href="https://www.linkedin.com/in/seu-perfil/" style="color: black; text-decoration: none;"><strong>LinkedIn</strong></a>
+  <a href="mailto:sarot.dev@gmail.com" style="color: black; text-decoration: none;"><strong>Email:</strong> seu-email@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/ruangonzalez/" style="color: black; text-decoration: none;"><strong>LinkedIn</strong></a>
 </p>
 
 <hr style="border: 1px solid black;">
