@@ -22,8 +22,8 @@
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">📈 Estatísticas do GitHub</h2>
 
 <div align="center" style="color: black; font-family: Arial, sans-serif;">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide_border=true&theme=default&icon_color=black&text_color=black" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide_border=true&theme=default&text_color=black" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?ruangonzalez&show_icons=true&hide_title=true&hide_border=true&theme=default&icon_color=black&text_color=black" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ruangonzalez&layout=compact&hide_border=true&theme=default&text_color=black" alt="Top Languages">
 </div>
 
 <hr style="border: 1px solid black;">
