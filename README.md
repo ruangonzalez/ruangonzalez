@@ -14,7 +14,7 @@
 
 <ul style="color: black; font-family: Arial, sans-serif; list-style: none; padding: 0;">
   <li style="margin-bottom: 10px;">🔒 <strong>CyberSecurity</strong> - Pentesting, Ethical Hacking, Segurança de Redes</li>
-  <li>🐍 <strong>Python</strong> - Desenvolvimento Web, Automação, Análise de Dados</li>
+  <li>🐍 <strong>Python</strong> - Desenvolvimento de Software, Automação, Análise de Dados</li>
 </ul>
 
 <hr style="border: 1px solid black;">
