@@ -1,5 +1,5 @@
 <h1 align="center" style="color: black; font-family: Arial, sans-serif;">
-  Ruan - CyberSecurity Enthusiast & Python Developer
+  Ruan - Data Science Enthusiast & Python Developer
 </h1>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
-  Sou um estudante apaixonado por CyberSecurity e programação em Python, buscando sempre aprender e aprimorar minhas habilidades.
+  Sou um estudante apaixonado por programação, e data science buscando sempre aprender e aprimorar minhas habilidades.
 </p>
 
 <hr style="border: 1px solid black;">
@@ -20,7 +20,7 @@
 </p>
 
 <ul style="color: black; font-family: Arial, sans-serif; list-style: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px;">🔒 <strong>CyberSecurity</strong> - Pentesting, Ethical Hacking, Segurança de Redes</li>
+  <li style="margin-bottom: 10px;">🧮 <strong>Data Science</strong> - Pentesting, Ethical Hacking, Segurança de Redes</li>
   <li>🐍 <strong>Python</strong> - Desenvolvimento Web, Automação, Análise de Dados</li>
 </ul>
 
