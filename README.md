@@ -20,8 +20,8 @@
 </p>
 
 <ul style="color: black; font-family: Arial, sans-serif; list-style: none; padding: 0; text-align: center;">
-  <li style="margin-bottom: 10px;">🧮 <strong>Data Science</strong> - Pentesting, Ethical Hacking, Segurança de Redes</li>
-  <li>🐍 <strong>Python</strong> - Desenvolvimento Web, Automação, Análise de Dados</li>
+  <li style="margin-bottom: 10px;">🧮 <strong>Data Science</strong> - Análise de Dados, PowerBI </li>
+  <li>🐍 <strong>Python</strong> - Desenvolvimento de Softwares, Automação, Análise de Dados</li>
 </ul>
 
 <hr style="border: 1px solid black;">
