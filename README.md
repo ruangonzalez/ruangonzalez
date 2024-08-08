@@ -1,5 +1,5 @@
 <h1 align="center" style="color: black; font-family: Arial, sans-serif;">
-  Ruan - Data Science Enthusiast & Python Developer
+  Data Science Enthusiast & Python Developer
 </h1>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
