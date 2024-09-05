@@ -15,7 +15,6 @@
 <h2 align="center" style="color: black; font-family: Arial, sans-serif;">📚 Especialidades</h2>
 
 <p align="center" style="color: black; font-family: Arial, sans-serif;">
-  <img src="https://img.shields.io/badge/CyberSecurity-Expert-black?style=flat-square&logo=security&logoColor=white" alt="CyberSecurity">
   <img src="https://img.shields.io/badge/Python-Developer-black?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
