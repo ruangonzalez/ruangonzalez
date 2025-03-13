@@ -18,7 +18,7 @@ Sou um estudante apaixonado por **Desenvolvimento de Software** e **Cybersecurit
 
 ## 📫 Como entrar em contato
 - LinkedIn: [Ruan Gonzalez](https://www.linkedin.com/in/ruangonzalez/)
-- Twitter: [@sh1w!d](https://x.com/wowretarded)
+- Twitter: [@wowretarded](https://x.com/wowretarded)
 
 ## ⚡ Curiosidades
 - Apaixonado por **World of Warcraft**.
